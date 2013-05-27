@@ -1,0 +1,1 @@
+It works better if you take the picture with a backgroud color as near to white as possible.
